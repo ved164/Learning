@@ -1,3 +1,2 @@
 # Learning
-Learning projects for Machine and Deep Learning. 
-Dealing with Image Classification 
+Personal Projects for learning.
