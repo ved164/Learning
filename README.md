@@ -6,3 +6,4 @@ Personal Projects for learning.
 3. Variational Graph Autoencoder - VGAE with citeseer dataset from https://arxiv.org/abs/1611.07308 paper by T.kipf
 4. UCI Heart Disease classification
 5. CNN using seven wonders dataset
+6. Regression Analysis for the UCI Bike sharing dataset. https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
